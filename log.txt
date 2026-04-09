@@ -1,0 +1,11 @@
+﻿commit 6ca2a09bb9824fd1ab0e7831c6c297983dc0b27c
+Author: yudhoprameswara <96399085+yudhoprameswara@users.noreply.github.com>
+Date:   Thu Apr 9 15:02:50 2026 +0700
+
+    Update favicon to YP.
+
+commit 95f2330debd3d03ef2104f9c288bf4e21e3d6c6a
+Author: yudhoprameswara <96399085+yudhoprameswara@users.noreply.github.com>
+Date:   Thu Apr 9 14:41:53 2026 +0700
+
+    first commit
